@@ -14,9 +14,9 @@ They're shared here in case anyone else finds them useful.
 
 ## Scripts
 
-| Script      | Description                                                     |
-| ----------- | --------------------------------------------------------------- |
-| Coming soon | More scripts will be added as I clean them up and publish them. |
+| Name | Description | Install |
+|---|---|---|
+| **Speedrun.com Steam Price Overlay** | Shows current Steam prices next to games and series on Speedrun.com, with a "Free games only" filter. | **[Install](./scripts/speedrun-steam-price-overlay.user.js)** |
 
 ## Installation
 
