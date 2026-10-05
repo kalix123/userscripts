@@ -16,7 +16,8 @@ They're shared here in case anyone else finds them useful.
 
 | Name | Description | Install |
 |---|---|---|
-| **Speedrun.com Steam Price Overlay** | Shows current Steam prices next to games and series on Speedrun.com, with a "Free games only" filter. | **[Install](https://github.com/kalix123/userscripts/raw/refs/heads/master/scripts/speedrun-steam-price-overlay.user.js)** |
+| **Speedrun.com Steam Price Overlay** | Shows current Steam prices below games on Speedrun.com, with a "Free games only" filter. | **[Install](https://github.com/kalix123/userscripts/raw/refs/heads/master/scripts/speedrun-steam-price-overlay.user.js)** |
+| **Itch.io Bundle Auto-Claimer** | Auto claims games from large itch.io bunldes, can handle multiple pages. Progress bar may not work properly but the games will be added to your library | **[Install](https://github.com/kalix123/userscripts/raw/refs/heads/master/scripts/itchio-bundle-auto-claimer.user.js)** |
 
 
 ## Installation
