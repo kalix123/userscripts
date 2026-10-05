@@ -22,9 +22,7 @@ They're shared here in case anyone else finds them useful.
 
 ## Installation
 
-These scripts are intended to be used with a userscript manager such as Tampermonkey, Violentmonkey, or another compatible browser extension.
-
-Open the `.user.js` file for a script and follow the installation instructions provided by your userscript manager.
+These scripts are intended to be used with a userscript manager such as Tampermonkey, Violentmonkey, or another compatible browser extensions.
 
 ## License
 
